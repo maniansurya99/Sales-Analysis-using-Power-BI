@@ -27,7 +27,7 @@ The following visualizations and dashboards were created as part of the analysis
 
 Through the analysis, several key insights were uncovered:
 
-- The top-performing countries in terms of chocolate sales were the India, United States, and UK
+- The top-performing countries in terms of chocolate sales were India, the United States, and the UK
 - Sales people who were from Delish Team tended to be more profitable
 - The most profitable product was Peanut Butter Cubes
 - By filtering by category and team, it was possible to identify the top-performing sales people and products in each category and team
